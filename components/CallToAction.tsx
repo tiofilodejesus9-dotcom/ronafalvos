@@ -18,7 +18,7 @@ const CallToAction: React.FC = () => {
           href="#contact" 
           className="inline-block px-10 py-4 bg-white text-brand-blue font-bold text-lg rounded-full hover:bg-brand-gold hover:text-white transition-all shadow-xl hover:shadow-2xl transform hover:-translate-y-1"
         >
-          Solicitar Orçamento Grátis
+          Solicitar Orçamento
         </a>
       </div>
     </section>
